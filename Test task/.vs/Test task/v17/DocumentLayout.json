@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unityproj\\Test task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6EFF1E-5E2E-93C8-2B0A-3B803B326668}|Assembly-CSharp.csproj|d:\\unityproj\\test task\\assets\\regulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6EFF1E-5E2E-93C8-2B0A-3B803B326668}|Assembly-CSharp.csproj|solutionrelative:assets\\regulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Regulator.cs",
+              "DocumentMoniker": "D:\\unityproj\\Test task\\Assets\\Regulator.cs",
+              "RelativeDocumentMoniker": "Assets\\Regulator.cs",
+              "ToolTip": "D:\\unityproj\\Test task\\Assets\\Regulator.cs",
+              "RelativeToolTip": "Assets\\Regulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:08:31.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
